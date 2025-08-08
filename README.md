@@ -13,7 +13,8 @@ if you're clueless on how to run this on your linux CLI, don't worry i'll help.
 6. then run the python program using "python3 <YOUR_FILE_NAME>.py"
 
 If you wish to change the timer you can change it in the file, it is located at the very top
-or if you decide that you don't want the timer you can choose without the timer one from the repo.
+or if you decide that you don't want the timer you can choose without the timer one from the repository 
+and just skip pip installing the two libraries or not, your choice.
 
 You are all set! Have fun!!! 
 Credits to Astrostake for the resources and guide, Their website https://astrostake.xyz/
